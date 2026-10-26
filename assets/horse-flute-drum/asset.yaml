@@ -1,0 +1,41 @@
+id: horse-flute-drum
+title: Horse flute drum
+description: An upright blue spotted horse blows a small pipe while holding a round red-rimmed drum and a curved drumstick.
+type: illustration
+categories:
+  - animals
+  - fantasy
+  - music
+subjects:
+  - horse
+  - flute
+  - drum
+  - musician
+colors:
+  - blue
+  - red
+  - cream
+  - black
+facing: right
+composition: single-figure
+group: 74v
+render:
+  image: {}
+usage_notes:
+  - Small museum source detail; exports are capped at its useful native region size. Larger display cannot recover detail.
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Horse playing a flute and drum
+  object_identifier: W.102, fol. 74v
+  date: ca. 1300
+  record_url: https://art.thewalters.org/object/W.102.74V/
+  image_url: https://pdr-assets.b-cdn.net/collections/music-in-the-margins-the-funeral-of-reynard-the-fox-13th-century/35897180625_74c08433b2_o.jpg
+  image_rights: CC0-1.0
+  rights_url: https://art.thewalters.org/object/W.102.74V/
+  source_sha256: 91c4d324065db3ef13d6ca547f7e62d4231010db5b04d614d6435c432caf51f5
+license: null

@@ -1,0 +1,42 @@
+id: centaur-archer
+title: Centaur archer
+description: A leaping centaur with a pale human torso and spotted blue equine body draws a red bow toward the right.
+type: illustration
+categories:
+  - hybrids
+  - fantasy
+  - humans
+  - animals
+subjects:
+  - centaur
+  - archer
+  - bow
+  - arrow
+colors:
+  - blue
+  - pink
+  - red
+  - black
+facing: right
+composition: single-figure
+group: 82v
+render:
+  image: {}
+usage_notes:
+  - Small museum source detail; exports are capped at its useful native region size. Larger display cannot recover detail.
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Centaur firing an arrow
+  object_identifier: W.102, fol. 82v
+  date: ca. 1300
+  record_url: https://art.thewalters.org/object/W.102.82V/
+  image_url: https://live.staticflickr.com/8023/7699241118_60ac2881e4_b.jpg
+  image_rights: CC0-1.0
+  rights_url: https://art.thewalters.org/object/W.102.82V/
+  source_sha256: 4f3c9f7909682439c1ad1cd159ba76134e0f4312a851224390ae2750859ef442
+license: null

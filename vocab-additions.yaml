@@ -1,0 +1,19 @@
+# Subjects used by the drafts of this set that are not in schemas/vocab/subjects.yaml.
+# Add the ones kept after review to the global vocabulary in the same PR; never merged automatically.
+subjects:
+  - archer
+  - architecture
+  - arrow
+  - bell
+  - bow
+  - castle
+  - centaur
+  - church
+  - drum
+  - elephant
+  - flute
+  - horse
+  - musician
+  - rabbit
+  - rider
+  - rope

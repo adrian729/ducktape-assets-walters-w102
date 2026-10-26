@@ -1,0 +1,43 @@
+id: rabbit-church-bells
+title: Rabbit church bells
+description: A brown rabbit pulls a red bell rope beside a cream church with blue roofs, a bell tower and a dark circular window.
+type: illustration
+categories:
+  - animals
+  - fantasy
+  - music
+subjects:
+  - rabbit
+  - church
+  - bell
+  - rope
+  - architecture
+colors:
+  - brown
+  - blue
+  - cream
+  - red
+  - black
+facing: right
+composition: framed-scene
+group: 81r
+render:
+  image: {}
+usage_notes:
+  - Small museum source detail; exports are capped at its useful native region size. Larger display cannot recover detail.
+status: draft
+review: pending
+created: 2026-10-26
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Rabbit tolling church bells
+  object_identifier: W.102, fol. 81r
+  date: ca. 1300
+  record_url: https://art.thewalters.org/object/W.102.81R/
+  image_url: https://live.staticflickr.com/8014/7699243818_f188d31fba_b.jpg
+  image_rights: CC0-1.0
+  rights_url: https://art.thewalters.org/object/W.102.81R/
+  source_sha256: c329b6f3255b2ec40ac8868a1ceee0f0fc3e1a1797facc2b8b3e5064a61e41cb
+license: null
