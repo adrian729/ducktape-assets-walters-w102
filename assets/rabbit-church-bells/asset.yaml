@@ -1,32 +1,46 @@
+# descriptive: find it and understand it
 id: rabbit-church-bells
-title: Rabbit church bells
-description: A brown rabbit pulls a red bell rope beside a cream church with blue roofs, a bell tower and a dark circular window.
+title: Rabbit ringing church bells
+description: A brown rabbit stands on its hind legs at the left, facing right, and pulls two red twisted bell ropes that hang from the arched doorway of a cream stone church. The church has a blue chevron-tiled roof, a square belfry with two bells, a dark quatrefoil rose window and a tower with a gold cross at the right; the background is transparent.
 type: illustration
 categories:
   - animals
-  - fantasy
   - music
+  - fantasy
 subjects:
   - rabbit
+  - hare
   - church
-  - bell
+  - bells
   - rope
+  - tower
+  - rose-window
+  - cross
   - architecture
+  - marginalia
 colors:
+  - cream
   - brown
   - blue
-  - cream
-  - red
   - black
+  - red
 facing: right
-composition: framed-scene
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
 group: 81r
 render:
   image: {}
 usage_notes:
-  - Small museum source detail; exports are capped at its useful native region size. Larger display cannot recover detail.
-status: draft
-review: pending
+  - The rabbit faces into the church, so keep the whole group together; it reads well as a bottom-margin or corner scene.
+display_width:
+  - 200
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
 provenance:

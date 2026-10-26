@@ -1,32 +1,45 @@
+# descriptive: find it and understand it
 id: elephant-castle
-title: Elephant castle
-description: An orange elephant carries a cream castle with blue roofs, a red parapet and a rider against a blue and red patterned panel.
+title: Elephant carrying a castle
+description: An orange elephant walks to the right carrying a cream stone castle with a red crenellated parapet and a blue domed turret; a hooded man in blue leans out of the castle at the left and a second small figure peers over the battlements at the right. The scene sits on its original opaque panel, red with white vine scroll above and blue with white tendrils below, with a brown ornamental terminal at the upper left; only the area outside the panel is transparent.
 type: illustration
 categories:
   - animals
-  - fantasy
   - humans
+  - botanical
 subjects:
   - elephant
   - castle
+  - howdah
   - rider
+  - tower
   - architecture
+  - vine
+  - marginalia
 colors:
   - orange
   - blue
   - red
   - cream
-  - gold
+  - white
 facing: right
+view: side
 composition: framed-scene
+
+# structural: how it is organised and related
 group: 28r
 render:
   image: {}
 usage_notes:
-  - The original panel ground is intentionally retained; only the surrounding page was removed.
-  - Small museum source detail; exports are capped at its useful native region size. Larger display cannot recover detail.
-status: draft
-review: pending
+  - The painted panel is part of the asset; place it as a self-contained picture rather than as a cut-out figure.
+display_width:
+  - 120
+  - 270
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+quality: The master is only 270 px wide and the painting is soft; detail does not survive enlargement beyond its native size.
 created: 2026-10-26
 master: master.png
 provenance:

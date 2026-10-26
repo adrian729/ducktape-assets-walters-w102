@@ -1,30 +1,44 @@
+# descriptive: find it and understand it
 id: horse-flute-drum
-title: Horse flute drum
-description: An upright blue spotted horse blows a small pipe while holding a round red-rimmed drum and a curved drumstick.
+title: Horse playing pipe and tabor
+description: A blue dappled horse stands upright on its hind legs, facing right in profile, blowing a three-hole pipe held in one hand while beating a red-rimmed tabor drum, slung from a red strap over its shoulder, with a curved stick in the other hand. Transparent background.
 type: illustration
 categories:
   - animals
-  - fantasy
   - music
+  - fantasy
 subjects:
   - horse
-  - flute
-  - drum
   - musician
+  - pipe
+  - tabor
+  - drum
+  - pipe-and-tabor
+  - wind-instrument
+  - marginalia
 colors:
   - blue
   - red
   - cream
   - black
 facing: right
+view: side
 composition: single-figure
+
+# structural: how it is organised and related
 group: 74v
 render:
   image: {}
 usage_notes:
-  - Small museum source detail; exports are capped at its useful native region size. Larger display cannot recover detail.
-status: draft
-review: pending
+  - Tall narrow figure suited to a side margin; it faces right, so place it to the left of the text it accompanies.
+display_width:
+  - 100
+  - 236
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+quality: The master is only 236 px wide; the painting is soft and detail does not survive enlargement beyond its native size.
 created: 2026-10-26
 master: master.png
 provenance:

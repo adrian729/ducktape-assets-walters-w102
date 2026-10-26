@@ -1,19 +1,11 @@
-# Subjects used by the drafts of this set that are not in schemas/vocab/subjects.yaml.
-# Add the ones kept after review to the global vocabulary in the same PR; never merged automatically.
+# Subjects used by the reviewed records of this set that are not in schemas/vocab/subjects.yaml (as of 2026-10-26).
+# Add them to the global vocabulary in the same PR that merges this review; never merged automatically.
 subjects:
-  - archer
-  - architecture
-  - arrow
-  - bell
-  - bow
-  - castle
-  - centaur
-  - church
-  - drum
-  - elephant
-  - flute
-  - horse
-  - musician
-  - rabbit
-  - rider
-  - rope
+  - cross
+  - hare
+  - howdah
+  - marginalia
+  - pipe-and-tabor
+  - rose-window
+  - tabor
+  - tower

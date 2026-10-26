@@ -1,31 +1,42 @@
+# descriptive: find it and understand it
 id: centaur-archer
-title: Centaur archer
-description: A leaping centaur with a pale human torso and spotted blue equine body draws a red bow toward the right.
+title: Centaur drawing a bow
+description: A galloping centaur with a pale human torso, a white coif and a blue dappled horse body draws a red bow, aiming its arrow up and to the right, on a transparent background. The whole figure moves to the right in strict profile.
 type: illustration
 categories:
   - hybrids
   - fantasy
-  - humans
   - animals
+  - humans
 subjects:
   - centaur
   - archer
   - bow
   - arrow
+  - horse
+  - marginalia
 colors:
   - blue
   - pink
   - red
   - black
 facing: right
+view: side
 composition: single-figure
+
+# structural: how it is organised and related
 group: 82v
 render:
   image: {}
 usage_notes:
-  - Small museum source detail; exports are capped at its useful native region size. Larger display cannot recover detail.
-status: draft
-review: pending
+  - The figure runs to the right; it sits naturally at the left of a heading or along a bottom margin pointing into the text.
+display_width:
+  - 160
+  - 480
+
+# administrative: manage, access, preserve
+status: approved
+review: done
 created: 2026-10-26
 master: master.png
 provenance:
